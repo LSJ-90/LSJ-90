@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요👋 백엔드 개발자가 되고 싶은 '이승준'이라는 새싹입니다.
 
 <!--
 **LSJ-90/LSJ-90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
